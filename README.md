@@ -18,7 +18,7 @@
 
 ### Resutados
 
-Originalmente, o desafio pedia para ser realizado na url http://www.facebook.com, porém não consegui realizar. Portanto, apenas alterei a url e também tentei no navegador Chrome. Desafio concluido com sucesso. 
+Originalmente, o desafio instruía para clonar o site do Facebook por meio da url http://www.facebook.com, porém ao tentar meu setookit não localizava os campos do HTML. Portanto, apenas alterei a url e também tentei no navegador Chrome. Desafio concluido com sucesso. 
 
 ![Alt text](./site.png "Site clonado")
 
